@@ -44,12 +44,4 @@ Confirm port 21/tcp is open and vsftpd 2.3.4 reported
 
 <img width="959" height="262" alt="exploit working" src="https://github.com/user-attachments/assets/ad28764b-f43a-4f51-a2c9-0e3ca025776b" />
 
-Trigger the vsftpd backdoor and immediately connect to the backdoor shell, once connected I ran commands like 'whoami' and 'root' to verify it worked
-
-
-
-
-
-
-
-
+Trigger the vsftpd backdoor and immediately connect to the backdoor shell, once connected I ran commands like 'whoami' and 'id' to verify it worked
